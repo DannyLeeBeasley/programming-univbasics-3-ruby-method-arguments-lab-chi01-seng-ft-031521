@@ -2,9 +2,11 @@ def introduction(name)
   puts "Hi, my name is #{name}"
 end
 
+def introduction_with_language_optional(language = "Ruby")
+  puts "Hi, my name is #{name}. I am learning to rap #{language}!"
+end
+
 introduction("chicka-chicka-Slim-Shady")
-
-
 
 
 
