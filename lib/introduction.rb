@@ -11,10 +11,6 @@ def introduction_with_language_optional(name, language = "Ruby")
 end
 
 
-introduction("chicka-chicka-Slim-Shady")
-introduction_with_language_optional("chicka-chicka-Slim-Shady", "freestyle")
-introduction_with_language_optional("chicka-chicka-Slim-Shady")
-
 
 
 
